@@ -1,5 +1,7 @@
 package main
 
+//my git test
+
 // BKDRHash Function
 func BKDRHash(str []byte) uint32 {
 	var seed uint32 = 131 // 31 131 1313 13131 131313 etc..
